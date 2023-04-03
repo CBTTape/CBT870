@@ -1,0 +1,10 @@
+2023-04-03 03:19:33.561947 - Initialized conversion of CBT870
+2023-04-03 03:19:33.893571 - Received CBT.V504.FILE870.PDS from FILE870.XMI 
+2023-04-03 03:19:33.896392 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE870.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:19:33.897631 - Found $$INDEX.txt (text/plain) in CBT.V504.FILE870.PDS, moved to PDS/$$INDEX
+2023-04-03 03:19:33.898875 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE870.PDS, moved to PDS/$$NOTE01
+2023-04-03 03:19:33.899857 - Found $CONTACT.txt (text/plain) in CBT.V504.FILE870.PDS, moved to PDS/$CONTACT
+2023-04-03 03:19:33.900943 - Found $DOC.txt (text/plain) in CBT.V504.FILE870.PDS, moved to PDS/$DOC
+2023-04-03 03:19:33.902072 - Found $INSTALL.txt (text/plain) in CBT.V504.FILE870.PDS, moved to PDS/$INSTALL
+2023-04-03 03:19:33.903042 - Found @FILE870.txt (text/plain) in CBT.V504.FILE870.PDS, moved to PDS/@FILE870
+2023-04-03 03:19:33.903053 - Found PAX.x-compress containing application/x-compress, moved to PDS/PAX
