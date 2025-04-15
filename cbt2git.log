@@ -1,9 +1,9 @@
-2025-04-13 23:40:30.214225 - Received CBT.V508.FILE870.PDS from FILE870.XMI 
-2025-04-13 23:40:30.215614 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:40:30.215701 - Found $$INDEX.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$$INDEX
-2025-04-13 23:40:30.215768 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$$NOTE01
-2025-04-13 23:40:30.215828 - Found $CONTACT.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$CONTACT
-2025-04-13 23:40:30.215887 - Found $DOC.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$DOC
-2025-04-13 23:40:30.215945 - Found $INSTALL.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$INSTALL
-2025-04-13 23:40:30.216007 - Found @FILE870.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/@FILE870
-2025-04-13 23:40:30.217774 - Found PAX.x-compress (application/x-compress) in CBT.V508.FILE870.PDS, moved to PDS/PAX
+2025-04-15 06:21:32.552016 - Received CBT.V508.FILE870.PDS from FILE870.XMI 
+2025-04-15 06:21:32.552956 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$$$#DATE
+2025-04-15 06:21:32.553154 - Found $$INDEX.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$$INDEX
+2025-04-15 06:21:32.553298 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$$NOTE01
+2025-04-15 06:21:32.553402 - Found $CONTACT.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$CONTACT
+2025-04-15 06:21:32.553522 - Found $DOC.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$DOC
+2025-04-15 06:21:32.553646 - Found $INSTALL.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/$INSTALL
+2025-04-15 06:21:32.553767 - Found @FILE870.txt (text/plain) in CBT.V508.FILE870.PDS, moved to PDS/@FILE870
+2025-04-15 06:21:32.557597 - Found PAX.x-compress (application/x-compress) in CBT.V508.FILE870.PDS, moved to PDS/PAX
